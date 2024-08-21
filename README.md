@@ -1,2 +1,2 @@
-# AI-ASSISTANT
-A virtual intelligence assistant with ai-enhanced speech recognition 
+# VoxAssist
+A intelligent assistant with enhanced speech recognition 
